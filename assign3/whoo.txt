@@ -1,0 +1,26 @@
+error in tiptap_moveto: x > tt->max_x : 25 > 24
+error in tiptap_moveto: y > tt->max_y : 24 > 23
+error in tiptap_moveto: z > tt->home_zpos: 24 > 23
+error in handle_move when distance < 255!
+distance is 5
+Error in validation of coordinates! currentx > tt->max_x (10 > 9)
+A validation problem has occured!
+Error in validation of coordinates! currenty + k > tt->max_y (15 > 14)
+A validation problem has occured!
+Error in validation of coordinates! currenty + k > tt->max_y (15 > 14)
+A validation problem has occured!
+handle_print error when attempting to do traditional print! (Not a big print or its remainder)
+A printing problem has occured in tiptap_printlayer!!
+current width is 2
+handle_print error when attempting to do traditional print! (Not a big print or its remainder)
+A printing problem has occured in tiptap_printlayer!!
+current width is 2
+handle_print error when attempting to do traditional print! (Not a big print or its remainder)
+A printing problem has occured in tiptap_printlayer!!
+current width is 2
+handle_print error when attempting to do traditional print! (Not a big print or its remainder)
+A printing problem has occured in tiptap_printlayer!!
+current width is 2
+handle_print error when attempting to do traditional print! (Not a big print or its remainder)
+A printing problem has occured in tiptap_printlayer!!
+current width is 2

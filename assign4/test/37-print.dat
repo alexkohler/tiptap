@@ -1,0 +1,6 @@
+3 5 2
+INIT
+MOVE 0 0 1
+PRNT 0 0 3 5 f e d c 0 c d e 0 a 0 2 0 0 1
+VDAT 0d152c6f2b9ad7bc405d803f4e30d3bf60faf6ae
+DEST

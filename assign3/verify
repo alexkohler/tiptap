@@ -1,0 +1,13 @@
+#! /bin/bash
+
+# Make sure we're in the same directory as verify
+cd "$(dirname "$0")"
+
+# Run through all the tests
+for f in test/*.dat; do
+	echo "Verifying test '$f':" 1>&2
+	./simulate "$@" < "$f" || exit
+	echo =================================================================== 1>&2
+done
+
+echo "All tests passed" 1>&2

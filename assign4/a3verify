@@ -1,0 +1,5403 @@
+adding chunk of width 3 height 4 depth 5 to (0 0 0)
+numberofchunks is now 1
+width is now 3
+adding chunk of width 2 height 5 depth 7 to (6 2 0)
+numberofchunks is now 1
+width is now 8
+adding chunk of width 0 height 5 depth 7 to (6 2 0)
+model_add_chunk: Invalid width passed!
+adding chunk of width 2 height 0 depth 7 to (6 2 0)
+model_add_chunk: Invalid height passed!
+adding chunk of width 2 height 5 depth 0 to (6 2 0)
+model_add_chunk: Invalid depth passed!
+adding chunk of width 8 height 8 depth 8 to (0 0 0)
+numberofchunks is now 1
+width is now 8
+adding chunk of width 4 height 4 depth 4 to (2 2 2)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 8
+adding chunk of width 2 height 3 depth 4 to (0 0 0)
+numberofchunks is now 1
+width is now 2
+adding chunk of width 4 height 4 depth 4 to (5 6 0)
+numberofchunks is now 2
+width is now 9
+adding chunk of width 2 height 3 depth 6 to (0 0 0)
+numberofchunks is now 1
+width is now 2
+adding chunk of width 4 height 4 depth 4 to (5 6 0)
+numberofchunks is now 2
+width is now 9
+adding chunk of width 5 height 1 depth 6 to (2 3 0)
+numberofchunks is now 1
+width is now 7
+adding chunk of width 3 height 1 depth 3 to (2 3 0)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 7
+adding chunk of width 5 height 1 depth 6 to (2 3 0)
+numberofchunks is now 1
+width is now 7
+adding chunk of width 5 height 1 depth 6 to (2 3 0)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 7
+adding chunk of width 159 height 36 depth 76 to (209 73 168)
+numberofchunks is now 1
+width is now 368
+adding chunk of width 11 height 24 depth 180 to (147 216 46)
+numberofchunks is now 2
+width is now 158
+adding chunk of width 230 height 90 depth 177 to (189 61 178)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 3
+width is now 419
+adding chunk of width 85 height 243 depth 41 to (74 118 102)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 4
+width is now 419
+adding chunk of width 242 height 76 depth 118 to (121 91 28)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 5
+width is now 419
+adding chunk of width 17 height 67 depth 118 to (60 103 86)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 6
+width is now 419
+adding chunk of width 101 height 103 depth 27 to (210 254 125)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 7
+width is now 419
+adding chunk of width 220 height 159 depth 96 to (242 170 205)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 8
+width is now 462
+adding chunk of width 238 height 207 depth 232 to (147 16 232)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 9
+width is now 462
+adding chunk of width 110 height 132 depth 225 to (216 33 68)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 10
+width is now 462
+adding chunk of width 5 height 51 depth 149 to (112 208 99)
+numberofchunks is now 1
+width is now 117
+adding chunk of width 167 height 117 depth 55 to (145 4 148)
+numberofchunks is now 2
+width is now 312
+adding chunk of width 24 height 253 depth 148 to (162 12 254)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 3
+width is now 312
+adding chunk of width 169 height 104 depth 189 to (18 140 55)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 4
+width is now 312
+adding chunk of width 98 height 103 depth 188 to (142 59 212)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 5
+width is now 312
+adding chunk of width 12 height 147 depth 117 to (247 162 2)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 6
+width is now 312
+adding chunk of width 221 height 243 depth 122 to (87 48 157)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 7
+width is now 312
+adding chunk of width 60 height 116 depth 85 to (209 144 237)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 8
+width is now 312
+adding chunk of width 1 height 119 depth 99 to (117 50 30)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 9
+width is now 312
+adding chunk of width 134 height 121 depth 36 to (16 196 217)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 10
+width is now 312
+adding chunk of width 79 height 224 depth 115 to (192 180 6)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 11
+width is now 312
+adding chunk of width 245 height 94 depth 38 to (87 69 255)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 12
+width is now 332
+adding chunk of width 21 height 230 depth 238 to (128 3 222)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 13
+width is now 332
+adding chunk of width 142 height 52 depth 110 to (239 181 62)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 14
+width is now 381
+adding chunk of width 134 height 64 depth 15 to (199 4 109)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 15
+width is now 381
+adding chunk of width 3 height 126 depth 1 to (133 72 200)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 16
+width is now 381
+adding chunk of width 211 height 150 depth 62 to (255 192 71)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 17
+width is now 466
+adding chunk of width 92 height 226 depth 131 to (222 180 218)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 18
+width is now 466
+adding chunk of width 130 height 225 depth 147 to (133 239 214)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 19
+width is now 466
+adding chunk of width 21 height 196 depth 144 to (119 222 22)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 20
+width is now 466
+adding chunk of width 158 height 243 depth 246 to (54 244 204)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 21
+width is now 466
+adding chunk of width 161 height 226 depth 173 to (87 55 251)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 22
+width is now 466
+adding chunk of width 68 height 103 depth 156 to (125 136 181)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 23
+width is now 466
+adding chunk of width 34 height 188 depth 46 to (23 65 161)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 24
+width is now 466
+adding chunk of width 118 height 173 depth 243 to (151 147 254)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 25
+width is now 466
+adding chunk of width 185 height 184 depth 194 to (93 119 10)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 26
+width is now 466
+adding chunk of width 146 height 197 depth 68 to (16 35 42)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 27
+width is now 466
+adding chunk of width 136 height 143 depth 14 to (120 177 185)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 28
+width is now 466
+adding chunk of width 208 height 45 depth 147 to (146 73 109)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 29
+width is now 466
+adding chunk of width 118 height 237 depth 128 to (2 12 150)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 30
+width is now 466
+adding chunk of width 183 height 206 depth 25 to (71 221 96)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 31
+width is now 466
+adding chunk of width 89 height 154 depth 29 to (241 149 161)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 32
+width is now 466
+adding chunk of width 237 height 104 depth 226 to (66 164 112)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 33
+width is now 466
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 34
+width is now 466
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 35
+width is now 466
+adding chunk of width 175 height 87 depth 111 to (141 172 131)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 36
+width is now 466
+adding chunk of width 225 height 206 depth 18 to (73 180 12)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 37
+width is now 466
+adding chunk of width 218 height 43 depth 199 to (9 213 21)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 38
+width is now 466
+adding chunk of width 84 height 62 depth 13 to (86 138 44)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 39
+width is now 466
+adding chunk of width 193 height 168 depth 239 to (78 21 108)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 40
+width is now 466
+adding chunk of width 228 height 180 depth 208 to (86 77 152)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 41
+width is now 466
+adding chunk of width 229 height 196 depth 113 to (91 222 170)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 42
+width is now 466
+adding chunk of width 253 height 3 depth 209 to (135 43 28)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 43
+width is now 466
+adding chunk of width 246 height 86 depth 95 to (74 101 161)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 44
+width is now 466
+adding chunk of width 242 height 154 depth 17 to (154 52 142)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 45
+width is now 466
+adding chunk of width 73 height 215 depth 33 to (38 104 152)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 46
+width is now 466
+adding chunk of width 126 height 97 depth 231 to (37 117 102)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 47
+width is now 466
+adding chunk of width 98 height 133 depth 59 to (82 113 189)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 48
+width is now 466
+adding chunk of width 138 height 171 depth 155 to (180 98 255)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 49
+width is now 466
+adding chunk of width 173 height 191 depth 150 to (10 198 186)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 50
+width is now 466
+adding chunk of width 141 height 77 depth 129 to (142 151 65)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 51
+width is now 466
+adding chunk of width 70 height 166 depth 223 to (12 110 163)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 52
+width is now 466
+adding chunk of width 201 height 65 depth 41 to (15 192 235)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 53
+width is now 466
+adding chunk of width 139 height 83 depth 223 to (28 64 44)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 54
+width is now 466
+adding chunk of width 3 height 13 depth 71 to (43 58 22)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 55
+width is now 466
+adding chunk of width 108 height 228 depth 164 to (26 218 185)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 56
+width is now 466
+adding chunk of width 35 height 83 depth 107 to (179 147 178)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 57
+width is now 466
+adding chunk of width 28 height 197 depth 58 to (199 199 218)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 58
+width is now 466
+adding chunk of width 73 height 222 depth 33 to (190 207 193)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 59
+width is now 466
+adding chunk of width 97 height 136 depth 160 to (167 239 55)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 60
+width is now 466
+adding chunk of width 150 height 202 depth 58 to (39 145 131)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 61
+width is now 466
+adding chunk of width 114 height 20 depth 105 to (153 8 103)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 62
+width is now 466
+adding chunk of width 164 height 162 depth 50 to (196 239 156)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 63
+width is now 466
+adding chunk of width 69 height 56 depth 153 to (233 51 65)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 64
+width is now 466
+adding chunk of width 162 height 36 depth 172 to (185 188 35)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 65
+width is now 466
+adding chunk of width 186 height 192 depth 218 to (75 68 62)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 66
+width is now 466
+adding chunk of width 223 height 227 depth 233 to (97 52 38)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 67
+width is now 466
+adding chunk of width 247 height 205 depth 164 to (21 39 10)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 68
+width is now 466
+adding chunk of width 44 height 200 depth 105 to (11 82 240)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 69
+width is now 466
+adding chunk of width 148 height 158 depth 86 to (177 178 126)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 70
+width is now 466
+adding chunk of width 183 height 90 depth 28 to (205 31 48)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 71
+width is now 466
+adding chunk of width 90 height 131 depth 218 to (50 161 6)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 72
+width is now 466
+adding chunk of width 68 height 120 depth 216 to (226 141 156)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 73
+width is now 466
+adding chunk of width 4 height 144 depth 20 to (28 248 32)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 74
+width is now 466
+adding chunk of width 212 height 13 depth 239 to (60 98 86)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 75
+width is now 466
+adding chunk of width 123 height 214 depth 87 to (15 235 161)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 76
+width is now 466
+adding chunk of width 237 height 208 depth 70 to (172 224 146)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 77
+width is now 466
+adding chunk of width 161 height 44 depth 134 to (40 224 170)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 78
+width is now 466
+adding chunk of width 188 height 253 depth 52 to (11 170 139)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 79
+width is now 466
+adding chunk of width 160 height 29 depth 73 to (146 92 94)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 80
+width is now 466
+adding chunk of width 76 height 226 depth 116 to (250 171 182)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 81
+width is now 466
+adding chunk of width 238 height 56 depth 246 to (17 4 160)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 82
+width is now 466
+adding chunk of width 231 height 113 depth 62 to (177 255 108)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 83
+width is now 466
+adding chunk of width 80 height 15 depth 185 to (236 170 219)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 84
+width is now 466
+adding chunk of width 238 height 74 depth 150 to (97 51 98)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 85
+width is now 466
+adding chunk of width 26 height 123 depth 100 to (215 59 48)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 86
+width is now 466
+adding chunk of width 158 height 60 depth 61 to (133 250 209)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 87
+width is now 466
+adding chunk of width 47 height 235 depth 133 to (3 7 66)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 88
+width is now 466
+adding chunk of width 105 height 185 depth 90 to (188 85 131)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 89
+width is now 466
+adding chunk of width 104 height 165 depth 30 to (65 233 115)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 90
+width is now 466
+adding chunk of width 85 height 129 depth 184 to (22 89 33)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 91
+width is now 466
+adding chunk of width 246 height 142 depth 166 to (176 243 97)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 92
+width is now 466
+adding chunk of width 211 height 97 depth 136 to (11 70 45)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 93
+width is now 466
+adding chunk of width 30 height 46 depth 2 to (131 242 110)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 94
+width is now 466
+adding chunk of width 197 height 111 depth 216 to (90 12 60)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 95
+width is now 466
+adding chunk of width 57 height 224 depth 89 to (8 191 75)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 96
+width is now 466
+adding chunk of width 81 height 154 depth 158 to (176 67 168)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 97
+width is now 466
+adding chunk of width 151 height 242 depth 238 to (102 133 133)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 98
+width is now 466
+adding chunk of width 51 height 139 depth 245 to (184 32 43)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 99
+width is now 466
+adding chunk of width 7 height 153 depth 17 to (223 193 234)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 100
+width is now 466
+adding chunk of width 5 height 1 depth 6 to (2 3 0)
+numberofchunks is now 1
+width is now 7
+adding chunk of width 3 height 1 depth 3 to (2 3 0)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 7
+adding chunk of width 5 height 51 depth 149 to (112 208 99)
+numberofchunks is now 1
+width is now 117
+adding chunk of width 167 height 117 depth 55 to (145 4 148)
+numberofchunks is now 2
+width is now 312
+adding chunk of width 24 height 253 depth 148 to (162 12 254)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 3
+width is now 312
+adding chunk of width 169 height 104 depth 189 to (18 140 55)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 4
+width is now 312
+adding chunk of width 98 height 103 depth 188 to (142 59 212)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 5
+width is now 312
+adding chunk of width 12 height 147 depth 117 to (247 162 2)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 6
+width is now 312
+adding chunk of width 221 height 243 depth 122 to (87 48 157)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 7
+width is now 312
+adding chunk of width 60 height 116 depth 85 to (209 144 237)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 8
+width is now 312
+adding chunk of width 1 height 119 depth 99 to (117 50 30)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 9
+width is now 312
+adding chunk of width 134 height 121 depth 36 to (16 196 217)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 10
+width is now 312
+adding chunk of width 79 height 224 depth 115 to (192 180 6)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 11
+width is now 312
+adding chunk of width 245 height 94 depth 38 to (87 69 255)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 12
+width is now 332
+adding chunk of width 21 height 230 depth 238 to (128 3 222)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 13
+width is now 332
+adding chunk of width 142 height 52 depth 110 to (239 181 62)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 14
+width is now 381
+adding chunk of width 134 height 64 depth 15 to (199 4 109)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 15
+width is now 381
+adding chunk of width 3 height 126 depth 1 to (133 72 200)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 16
+width is now 381
+adding chunk of width 211 height 150 depth 62 to (255 192 71)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 17
+width is now 466
+adding chunk of width 92 height 226 depth 131 to (222 180 218)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 18
+width is now 466
+adding chunk of width 130 height 225 depth 147 to (133 239 214)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 19
+width is now 466
+adding chunk of width 21 height 196 depth 144 to (119 222 22)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 20
+width is now 466
+adding chunk of width 158 height 243 depth 246 to (54 244 204)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 21
+width is now 466
+adding chunk of width 161 height 226 depth 173 to (87 55 251)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 22
+width is now 466
+adding chunk of width 68 height 103 depth 156 to (125 136 181)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 23
+width is now 466
+adding chunk of width 34 height 188 depth 46 to (23 65 161)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 24
+width is now 466
+adding chunk of width 118 height 173 depth 243 to (151 147 254)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 25
+width is now 466
+adding chunk of width 185 height 184 depth 194 to (93 119 10)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 26
+width is now 466
+adding chunk of width 146 height 197 depth 68 to (16 35 42)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 27
+width is now 466
+adding chunk of width 136 height 143 depth 14 to (120 177 185)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 28
+width is now 466
+adding chunk of width 208 height 45 depth 147 to (146 73 109)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 29
+width is now 466
+adding chunk of width 118 height 237 depth 128 to (2 12 150)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 30
+width is now 466
+adding chunk of width 183 height 206 depth 25 to (71 221 96)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 31
+width is now 466
+adding chunk of width 89 height 154 depth 29 to (241 149 161)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 32
+width is now 466
+adding chunk of width 237 height 104 depth 226 to (66 164 112)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 33
+width is now 466
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 34
+width is now 466
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 35
+width is now 466
+adding chunk of width 175 height 87 depth 111 to (141 172 131)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 36
+width is now 466
+adding chunk of width 225 height 206 depth 18 to (73 180 12)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 37
+width is now 466
+adding chunk of width 218 height 43 depth 199 to (9 213 21)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 38
+width is now 466
+adding chunk of width 84 height 62 depth 13 to (86 138 44)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 39
+width is now 466
+adding chunk of width 193 height 168 depth 239 to (78 21 108)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 40
+width is now 466
+adding chunk of width 228 height 180 depth 208 to (86 77 152)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 41
+width is now 466
+adding chunk of width 229 height 196 depth 113 to (91 222 170)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 42
+width is now 466
+adding chunk of width 253 height 3 depth 209 to (135 43 28)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 43
+width is now 466
+adding chunk of width 246 height 86 depth 95 to (74 101 161)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 44
+width is now 466
+adding chunk of width 242 height 154 depth 17 to (154 52 142)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 45
+width is now 466
+adding chunk of width 73 height 215 depth 33 to (38 104 152)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 46
+width is now 466
+adding chunk of width 126 height 97 depth 231 to (37 117 102)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 47
+width is now 466
+adding chunk of width 98 height 133 depth 59 to (82 113 189)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 48
+width is now 466
+adding chunk of width 138 height 171 depth 155 to (180 98 255)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 49
+width is now 466
+adding chunk of width 173 height 191 depth 150 to (10 198 186)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 50
+width is now 466
+adding chunk of width 141 height 77 depth 129 to (142 151 65)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 51
+width is now 466
+adding chunk of width 70 height 166 depth 223 to (12 110 163)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 52
+width is now 466
+adding chunk of width 201 height 65 depth 41 to (15 192 235)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 53
+width is now 466
+adding chunk of width 139 height 83 depth 223 to (28 64 44)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 54
+width is now 466
+adding chunk of width 3 height 13 depth 71 to (43 58 22)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 55
+width is now 466
+adding chunk of width 108 height 228 depth 164 to (26 218 185)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 56
+width is now 466
+adding chunk of width 35 height 83 depth 107 to (179 147 178)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 57
+width is now 466
+adding chunk of width 28 height 197 depth 58 to (199 199 218)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 58
+width is now 466
+adding chunk of width 73 height 222 depth 33 to (190 207 193)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 59
+width is now 466
+adding chunk of width 97 height 136 depth 160 to (167 239 55)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 60
+width is now 466
+adding chunk of width 150 height 202 depth 58 to (39 145 131)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 61
+width is now 466
+adding chunk of width 114 height 20 depth 105 to (153 8 103)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 62
+width is now 466
+adding chunk of width 164 height 162 depth 50 to (196 239 156)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 63
+width is now 466
+adding chunk of width 69 height 56 depth 153 to (233 51 65)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 64
+width is now 466
+adding chunk of width 162 height 36 depth 172 to (185 188 35)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 65
+width is now 466
+adding chunk of width 186 height 192 depth 218 to (75 68 62)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 66
+width is now 466
+adding chunk of width 223 height 227 depth 233 to (97 52 38)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 67
+width is now 466
+adding chunk of width 247 height 205 depth 164 to (21 39 10)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 68
+width is now 466
+adding chunk of width 44 height 200 depth 105 to (11 82 240)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 69
+width is now 466
+adding chunk of width 148 height 158 depth 86 to (177 178 126)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 70
+width is now 466
+adding chunk of width 183 height 90 depth 28 to (205 31 48)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 71
+width is now 466
+adding chunk of width 90 height 131 depth 218 to (50 161 6)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 72
+width is now 466
+adding chunk of width 68 height 120 depth 216 to (226 141 156)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 73
+width is now 466
+adding chunk of width 4 height 144 depth 20 to (28 248 32)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 74
+width is now 466
+adding chunk of width 212 height 13 depth 239 to (60 98 86)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 75
+width is now 466
+adding chunk of width 123 height 214 depth 87 to (15 235 161)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 76
+width is now 466
+adding chunk of width 237 height 208 depth 70 to (172 224 146)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 77
+width is now 466
+adding chunk of width 161 height 44 depth 134 to (40 224 170)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 78
+width is now 466
+adding chunk of width 188 height 253 depth 52 to (11 170 139)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 79
+width is now 466
+adding chunk of width 160 height 29 depth 73 to (146 92 94)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 80
+width is now 466
+adding chunk of width 76 height 226 depth 116 to (250 171 182)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 81
+width is now 466
+adding chunk of width 238 height 56 depth 246 to (17 4 160)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 82
+width is now 466
+adding chunk of width 231 height 113 depth 62 to (177 255 108)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 83
+width is now 466
+adding chunk of width 80 height 15 depth 185 to (236 170 219)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 84
+width is now 466
+adding chunk of width 238 height 74 depth 150 to (97 51 98)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 85
+width is now 466
+adding chunk of width 26 height 123 depth 100 to (215 59 48)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 86
+width is now 466
+adding chunk of width 158 height 60 depth 61 to (133 250 209)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 87
+width is now 466
+adding chunk of width 47 height 235 depth 133 to (3 7 66)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 88
+width is now 466
+adding chunk of width 105 height 185 depth 90 to (188 85 131)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 89
+width is now 466
+adding chunk of width 104 height 165 depth 30 to (65 233 115)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 90
+width is now 466
+adding chunk of width 85 height 129 depth 184 to (22 89 33)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 91
+width is now 466
+adding chunk of width 246 height 142 depth 166 to (176 243 97)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 92
+width is now 466
+adding chunk of width 211 height 97 depth 136 to (11 70 45)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 93
+width is now 466
+adding chunk of width 30 height 46 depth 2 to (131 242 110)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 94
+width is now 466
+adding chunk of width 197 height 111 depth 216 to (90 12 60)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 95
+width is now 466
+adding chunk of width 57 height 224 depth 89 to (8 191 75)
+@@@@ We have an overlap case with chunk 3!
+numberofchunks is now 96
+width is now 466
+adding chunk of width 81 height 154 depth 158 to (176 67 168)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 97
+width is now 466
+adding chunk of width 151 height 242 depth 238 to (102 133 133)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 98
+width is now 466
+adding chunk of width 51 height 139 depth 245 to (184 32 43)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 99
+width is now 466
+adding chunk of width 7 height 153 depth 17 to (223 193 234)
+@@@@ We have an overlap case with chunk 1!
+numberofchunks is now 100
+width is now 466
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+adding chunk of width 181 height 162 depth 33 to (50 56 9)
+numberofchunks is now 1
+width is now 231
+adding chunk of width 41 height 70 depth 174 to (170 37 135)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 231
+loading file models/good00.3dm...
+***chunkOffset is 26
+***titleOffset is 17
+***numberOfChunks is 0
+***titleLength is 5
+DEBUG: pread return value for title is 5
+Title is ennui
+loading file models/good01.3dm...
+***chunkOffset is 26
+***titleOffset is 17
+***numberOfChunks is 1
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is PrintJob1
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 1
+loading file models/good02.3dm...
+***chunkOffset is 26
+***titleOffset is 17
+***numberOfChunks is 5
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is PrintJob2
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (100, 100, 100)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 3
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (20, 20, 20)
+***width is 3
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[3]
+***xyz is (15, 15, 15)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[4]
+***xyz is (75, 34, 30)
+***width is 5
+***height is 7
+***depth is 6
+***material ID is 1
+width is now 105
+number of chunks is 5
+loading file models/good03.3dm...
+***chunkOffset is 26
+***titleOffset is 17
+***numberOfChunks is 100
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is PrintJob3
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (254, 244, 448)
+***width is a
+***height is 4
+***depth is 4
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (15, 78, 165)
+***width is 2
+***height is 2
+***depth is 3
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (108, 278, 82)
+***width is a
+***height is 4
+***depth is 4
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[3]
+***xyz is (206, 147, 311)
+***width is b
+***height is 4
+***depth is 4
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[4]
+***xyz is (105, 201, 429)
+***width is 4
+***height is 3
+***depth is 3
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[5]
+***xyz is (52, 151, 464)
+***width is 6
+***height is 3
+***depth is 5
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[6]
+***xyz is (63, 81, 204)
+***width is 4
+***height is 4
+***depth is 4
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[7]
+***xyz is (188, 55, 378)
+***width is 7
+***height is 3
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[8]
+***xyz is (207, 201, 291)
+***width is 7
+***height is 3
+***depth is 4
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[9]
+***xyz is (231, 244, 254)
+***width is 5
+***height is 4
+***depth is 2
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[10]
+***xyz is (125, 151, 217)
+***width is 7
+***height is 2
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[11]
+***xyz is (191, 257, 250)
+***width is a
+***height is 2
+***depth is 4
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[12]
+***xyz is (61, 72, 500)
+***width is 6
+***height is 2
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[13]
+***xyz is (31, 72, 253)
+***width is 2
+***height is 3
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[14]
+***xyz is (63, 168, 16)
+***width is 8
+***height is 3
+***depth is 2
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[15]
+***xyz is (196, 267, 275)
+***width is 8
+***height is 3
+***depth is 3
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[16]
+***xyz is (116, 196, 150)
+***width is 3
+***height is 2
+***depth is 5
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[17]
+***xyz is (134, 260, 394)
+***width is 7
+***height is 3
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[18]
+***xyz is (78, 114, 477)
+***width is 3
+***height is 3
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[19]
+***xyz is (48, 19, 14)
+***width is 5
+***height is 4
+***depth is 6
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[20]
+***xyz is (165, 297, 319)
+***width is 3
+***height is 2
+***depth is 3
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[21]
+***xyz is (229, 202, 193)
+***width is 6
+***height is 3
+***depth is 2
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[22]
+***xyz is (143, 158, 197)
+***width is a
+***height is 4
+***depth is 4
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[23]
+***xyz is (58, 274, 422)
+***width is 8
+***height is 2
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[24]
+***xyz is (91, 132, 451)
+***width is 9
+***height is 2
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[25]
+***xyz is (104, 82, 230)
+***width is 4
+***height is 4
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[26]
+***xyz is (120, 129, 193)
+***width is 3
+***height is 4
+***depth is 2
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[27]
+***xyz is (13, 106, 395)
+***width is 4
+***height is 3
+***depth is 4
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[28]
+***xyz is (249, 97, 25)
+***width is 9
+***height is 3
+***depth is 4
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[29]
+***xyz is (217, 110, 95)
+***width is 7
+***height is 2
+***depth is 3
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[30]
+***xyz is (231, 153, 161)
+***width is 6
+***height is 2
+***depth is 4
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[31]
+***xyz is (96, 99, 480)
+***width is 3
+***height is 3
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[32]
+***xyz is (229, 116, 264)
+***width is 2
+***height is 2
+***depth is 2
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[33]
+***xyz is (92, 20, 148)
+***width is 9
+***height is 4
+***depth is 3
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[34]
+***xyz is (95, 123, 225)
+***width is 6
+***height is 2
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[35]
+***xyz is (135, 182, 60)
+***width is 2
+***height is 4
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[36]
+***xyz is (16, 43, 364)
+***width is 3
+***height is 2
+***depth is 3
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[37]
+***xyz is (11, 285, 437)
+***width is 2
+***height is 2
+***depth is 6
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[38]
+***xyz is (80, 85, 232)
+***width is 4
+***height is 3
+***depth is 5
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[39]
+***xyz is (51, 112, 93)
+***width is 9
+***height is 4
+***depth is 6
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[40]
+***xyz is (236, 21, 421)
+***width is 8
+***height is 2
+***depth is 5
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[41]
+***xyz is (25, 182, 393)
+***width is 2
+***height is 3
+***depth is 4
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[42]
+***xyz is (65, 19, 195)
+***width is 7
+***height is 3
+***depth is 5
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[43]
+***xyz is (126, 277, 81)
+***width is 7
+***height is 2
+***depth is 3
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[44]
+***xyz is (51, 247, 120)
+***width is 5
+***height is 4
+***depth is 5
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[45]
+***xyz is (34, 178, 402)
+***width is 9
+***height is 4
+***depth is 5
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[46]
+***xyz is (63, 91, 206)
+***width is 3
+***height is 2
+***depth is 2
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[47]
+***xyz is (122, 280, 284)
+***width is 7
+***height is 3
+***depth is 6
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[48]
+***xyz is (136, 210, 286)
+***width is 4
+***height is 4
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[49]
+***xyz is (149, 288, 248)
+***width is 2
+***height is 4
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[50]
+***xyz is (64, 140, 255)
+***width is 7
+***height is 3
+***depth is 5
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[51]
+***xyz is (193, 167, 231)
+***width is 2
+***height is 4
+***depth is 6
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[52]
+***xyz is (102, 182, 314)
+***width is b
+***height is 4
+***depth is 4
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[53]
+***xyz is (213, 115, 289)
+***width is b
+***height is 3
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[54]
+***xyz is (155, 61, 172)
+***width is 4
+***height is 4
+***depth is 3
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[55]
+***xyz is (195, 207, 201)
+***width is 9
+***height is 3
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[56]
+***xyz is (151, 168, 357)
+***width is b
+***height is 2
+***depth is 2
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[57]
+***xyz is (131, 168, 405)
+***width is 9
+***height is 4
+***depth is 4
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[58]
+***xyz is (166, 189, 480)
+***width is 9
+***height is 3
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[59]
+***xyz is (164, 61, 66)
+***width is b
+***height is 4
+***depth is 4
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[60]
+***xyz is (173, 217, 136)
+***width is 7
+***height is 4
+***depth is 2
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[61]
+***xyz is (5, 60, 228)
+***width is 3
+***height is 3
+***depth is 6
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[62]
+***xyz is (12, 177, 242)
+***width is 9
+***height is 4
+***depth is 2
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[63]
+***xyz is (231, 187, 204)
+***width is 4
+***height is 4
+***depth is 6
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[64]
+***xyz is (31, 148, 305)
+***width is 3
+***height is 2
+***depth is 5
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[65]
+***xyz is (226, 114, 32)
+***width is 3
+***height is 2
+***depth is 6
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[66]
+***xyz is (247, 253, 128)
+***width is a
+***height is 3
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[67]
+***xyz is (242, 174, 98)
+***width is a
+***height is 4
+***depth is 3
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[68]
+***xyz is (212, 77, 279)
+***width is 3
+***height is 2
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[69]
+***xyz is (185, 191, 162)
+***width is 2
+***height is 4
+***depth is 4
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[70]
+***xyz is (199, 248, 239)
+***width is 2
+***height is 2
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[71]
+***xyz is (12, 8, 444)
+***width is 9
+***height is 2
+***depth is 4
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[72]
+***xyz is (210, 234, 229)
+***width is 2
+***height is 4
+***depth is 4
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[73]
+***xyz is (235, 142, 500)
+***width is 7
+***height is 3
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[74]
+***xyz is (73, 32, 331)
+***width is 9
+***height is 3
+***depth is 3
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[75]
+***xyz is (197, 234, 17)
+***width is 3
+***height is 4
+***depth is 3
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[76]
+***xyz is (178, 85, 28)
+***width is a
+***height is 4
+***depth is 4
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[77]
+***xyz is (162, 90, 261)
+***width is 3
+***height is 2
+***depth is 3
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[78]
+***xyz is (145, 156, 186)
+***width is 4
+***height is 2
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[79]
+***xyz is (212, 80, 449)
+***width is 4
+***height is 3
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[80]
+***xyz is (162, 252, 272)
+***width is 9
+***height is 3
+***depth is 3
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[81]
+***xyz is (111, 118, 154)
+***width is 4
+***height is 3
+***depth is 5
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[82]
+***xyz is (172, 76, 304)
+***width is 7
+***height is 4
+***depth is 3
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[83]
+***xyz is (55, 72, 500)
+***width is 5
+***height is 4
+***depth is 5
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[84]
+***xyz is (24, 39, 367)
+***width is a
+***height is 2
+***depth is 5
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[85]
+***xyz is (146, 138, 20)
+***width is 8
+***height is 4
+***depth is 6
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[86]
+***xyz is (51, 289, 156)
+***width is b
+***height is 2
+***depth is 3
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[87]
+***xyz is (90, 166, 80)
+***width is a
+***height is 3
+***depth is 5
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[88]
+***xyz is (205, 29, 226)
+***width is 4
+***height is 3
+***depth is 2
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[89]
+***xyz is (5, 223, 185)
+***width is 3
+***height is 3
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[90]
+***xyz is (135, 294, 338)
+***width is b
+***height is 4
+***depth is 6
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[91]
+***xyz is (222, 105, 312)
+***width is b
+***height is 2
+***depth is 3
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[92]
+***xyz is (200, 205, 379)
+***width is 8
+***height is 4
+***depth is 2
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[93]
+***xyz is (212, 230, 416)
+***width is 5
+***height is 2
+***depth is 3
+***material ID is 3
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[94]
+***xyz is (148, 171, 277)
+***width is 3
+***height is 2
+***depth is 5
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[95]
+***xyz is (225, 258, 52)
+***width is 5
+***height is 2
+***depth is 2
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[96]
+***xyz is (102, 252, 286)
+***width is 6
+***height is 4
+***depth is 3
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[97]
+***xyz is (234, 39, 61)
+***width is 5
+***height is 3
+***depth is 6
+***material ID is 1
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[98]
+***xyz is (239, 73, 473)
+***width is b
+***height is 2
+***depth is 2
+***material ID is 2
+width is now 264
+number of chunks is 100
+DEBUG: pread return value for chunk data is 13
+Chunk[99]
+***xyz is (226, 297, 49)
+***width is a
+***height is 4
+***depth is 4
+***material ID is 3
+width is now 264
+number of chunks is 100
+loading file models/good04.3dm...
+***chunkOffset is 34
+***titleOffset is 22
+***numberOfChunks is 5
+***titleLength is 8
+DEBUG: pread return value for title is 8
+Title is garbage?
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (100, 100, 100)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 3
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (20, 20, 20)
+***width is 3
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[3]
+***xyz is (15, 15, 15)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[4]
+***xyz is (75, 34, 30)
+***width is 5
+***height is 7
+***depth is 6
+***material ID is 1
+width is now 105
+number of chunks is 5
+loading file models/good05.3dm...
+***chunkOffset is 17
+***titleOffset is 82
+***numberOfChunks is 5
+***titleLength is 21
+DEBUG: pread return value for title is 21
+Title is cart before the horse
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (100, 100, 100)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 3
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (20, 20, 20)
+***width is 3
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[3]
+***xyz is (15, 15, 15)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[4]
+***xyz is (75, 34, 30)
+***width is 5
+***height is 7
+***depth is 6
+***material ID is 1
+width is now 105
+number of chunks is 5
+loading file models/good06.3dm...
+***chunkOffset is 17
+***titleOffset is 18
+***numberOfChunks is 1
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is H	E	L	L	O
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (72, 2373, 2380)
+***width is 94c
+***height is 2383
+***depth is 6
+***material ID is 15
+width is now 2452
+number of chunks is 1
+loading file models/good07.3dm...
+***chunkOffset is 538
+***titleOffset is 529
+***numberOfChunks is 5
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is wheeeeee!
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (100, 100, 100)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 3
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (20, 20, 20)
+***width is 3
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[3]
+***xyz is (15, 15, 15)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[4]
+***xyz is (75, 34, 30)
+***width is 5
+***height is 7
+***depth is 6
+***material ID is 1
+width is now 105
+number of chunks is 5
+loading file models/good02.3dm...
+***chunkOffset is 26
+***titleOffset is 17
+***numberOfChunks is 5
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is PrintJob2
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (100, 100, 100)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 3
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (20, 20, 20)
+***width is 3
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[3]
+***xyz is (15, 15, 15)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[4]
+***xyz is (75, 34, 30)
+***width is 5
+***height is 7
+***depth is 6
+***material ID is 1
+width is now 105
+number of chunks is 5
+adding chunk of width 5 height 1 depth 6 to (152 3 0)
+numberofchunks is now 6
+width is now 157
+adding chunk of width 3 height 1 depth 3 to (2 153 0)
+numberofchunks is now 7
+width is now 157
+loading file models/error00.3dm...
+model_load: error with open!
+loading file models/error01.3dm...
+model_load: error in short read for 17-byte header!
+loading file models/error02.3dm...
+Invalid file format specified
+loading file models/error03.3dm...
+***chunkOffset is 26
+***titleOffset is 12561
+***numberOfChunks is 5
+***titleLength is 9
+DEBUG: pread return value for title is 0
+short read error! (title)
+loading file models/error04.3dm...
+***chunkOffset is 17
+***titleOffset is 82
+***numberOfChunks is 5
+***titleLength is 22
+DEBUG: pread return value for title is 21
+short read error! (title)
+loading file models/error05.3dm...
+***chunkOffset is 16777242
+***titleOffset is 17
+***numberOfChunks is 5
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is PrintJob2
+DEBUG: pread return value for chunk data is 0
+retVal is 0
+model_load: pread error. Reached EOF 
+loading file models/error06.3dm...
+***chunkOffset is 26
+***titleOffset is 17
+***numberOfChunks is 6
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is PrintJob2
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 6
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (100, 100, 100)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 3
+width is now 105
+number of chunks is 6
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (20, 20, 20)
+***width is 3
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 6
+DEBUG: pread return value for chunk data is 13
+Chunk[3]
+***xyz is (15, 15, 15)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 6
+DEBUG: pread return value for chunk data is 13
+Chunk[4]
+***xyz is (75, 34, 30)
+***width is 5
+***height is 7
+***depth is 6
+***material ID is 1
+width is now 105
+number of chunks is 6
+DEBUG: pread return value for chunk data is 0
+retVal is 0
+model_load: pread error. Reached EOF 
+loading file models/error07.3dm...
+***chunkOffset is 26
+***titleOffset is 17
+***numberOfChunks is 6
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is PrintJob2
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 6
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (100, 100, 100)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 3
+width is now 105
+number of chunks is 6
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (20, 20, 20)
+***width is 3
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 6
+DEBUG: pread return value for chunk data is 13
+Chunk[3]
+***xyz is (15, 15, 15)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 6
+DEBUG: pread return value for chunk data is 13
+Chunk[4]
+***xyz is (75, 34, 30)
+***width is 5
+***height is 7
+***depth is 6
+***material ID is 1
+width is now 105
+number of chunks is 6
+DEBUG: pread return value for chunk data is 12
+retVal is 12
+loading file models/error08.3dm...
+***chunkOffset is 17
+***titleOffset is 82
+***numberOfChunks is 5
+***titleLength is 21
+DEBUG: pread return value for title is 21
+Title is cart before the horse
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (100, 100, 100)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 3
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (20, 20, 20)
+***width is 3
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Model_load error: invalid material id! (16)
+loading file models/error09.3dm...
+***chunkOffset is 26
+***titleOffset is 17
+***numberOfChunks is 5
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is flatlandX
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (100, 100, 100)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 3
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (20, 20, 20)
+***width is 3
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[3]
+***xyz is (15, 15, 15)
+***width is 0
+***height is 5
+***depth is 6
+***material ID is 2
+Model_load error: invalid coordinate given in height/width/depth dimension: 0/5/6
+loading file models/error10.3dm...
+***chunkOffset is 26
+***titleOffset is 17
+***numberOfChunks is 5
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is flatlandY
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (100, 100, 100)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 3
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (20, 20, 20)
+***width is 3
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[3]
+***xyz is (15, 15, 15)
+***width is 5
+***height is 0
+***depth is 6
+***material ID is 2
+Model_load error: invalid coordinate given in height/width/depth dimension: 5/0/6
+loading file models/error11.3dm...
+***chunkOffset is 26
+***titleOffset is 17
+***numberOfChunks is 5
+***titleLength is 9
+DEBUG: pread return value for title is 9
+Title is frankerZ?
+DEBUG: pread return value for chunk data is 13
+Chunk[0]
+***xyz is (10, 10, 10)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 1
+width is now 15
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[1]
+***xyz is (100, 100, 100)
+***width is 5
+***height is 5
+***depth is 6
+***material ID is 3
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[2]
+***xyz is (20, 20, 20)
+***width is 3
+***height is 5
+***depth is 6
+***material ID is 2
+width is now 105
+number of chunks is 5
+DEBUG: pread return value for chunk data is 13
+Chunk[3]
+***xyz is (15, 15, 15)
+***width is 5
+***height is 5
+***depth is 0
+***material ID is 2
+Model_load error: invalid coordinate given in height/width/depth dimension: 5/5/0
+adding chunk of width 5 height 4 depth 3 to (0 0 0)
+numberofchunks is now 1
+width is now 5
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 0 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 0 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 0 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+ccccc
+ccccc
+ccccc
+ccccc
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 0 - 5 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 5 - 10 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 10 - 15 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {ccccc} 
+	checking for frequency of materials between 15 - 20 
+	12 efficiency array: [1] [1] [1] [1] [1] 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+	12 efficiency array: Already taken care of! 
+
+adding chunk of width 5 height 4 depth 3 to (2 4 0)
+numberofchunks is now 1
+width is now 7
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+After initialization, x is 0, y is 0, and z is 4
+##################### Depth = 0 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 0 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 0 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 0 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 1]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 1 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 2]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+##################### Depth = 2 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Verification successful!
+validating coordinates..
+[#######CURRENT ROW: 0] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 0 - 5 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 1] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 5 - 10 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 2] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 10 - 15 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+[#######CURRENT ROW: 3] [DEPTH: 3]  [ROW WIDTH: 5] MATERIALS {fffff} 
+	checking for frequency of materials between 15 - 20 
+	15 efficiency array: [1] [1] [1] [1] [1] 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+	15 efficiency array: Already taken care of! 
+
+adding chunk of width 5 height 4 depth 3 to (2 4 0)
+numberofchunks is now 1
+width is now 7
+After initialization, x is 0, y is 0, and z is 10
+error in tiptap_moveto: x > tt->max_x : 15 > 9
+model_print error: tiptap_moveto error
+adding chunk of width 5 height 4 depth 3 to (2 4 0)
+numberofchunks is now 1
+width is now 7
+After initialization, x is 0, y is 0, and z is 10
+error in tiptap_moveto: y > tt->max_y : 15 > 9
+model_print error: tiptap_moveto error
+adding chunk of width 5 height 4 depth 3 to (2 4 0)
+numberofchunks is now 1
+width is now 7
+After initialization, x is 0, y is 0, and z is 10
+##################### Depth = 0 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Error in validation of coordinates! currentx > tt->max_x (10 > 9)
+validating coordinates..
+A validation problem has occured!
+model_print error: tiptap_printlayer error
+adding chunk of width 5 height 4 depth 3 to (2 4 0)
+numberofchunks is now 1
+width is now 7
+After initialization, x is 0, y is 0, and z is 10
+##################### Depth = 0 
+DEBUG: array is 
+fffff
+fffff
+fffff
+fffff
+
+Error in validation of coordinates! currenty + k > tt->max_y (10 > 9)
+validating coordinates..
+A validation problem has occured!
+model_print error: tiptap_printlayer error
+adding chunk of width 5 height 4 depth 3 to (2 4 0)
+numberofchunks is now 1
+width is now 7
+After initialization, x is 0, y is 0, and z is 10
+error in handle_move when distance < 255!
+distance is 5
+model_print error: tiptap_moveto error
+adding chunk of width 8 height 8 depth 8 to (0 0 0)
+numberofchunks is now 1
+width is now 8
+adding chunk of width 4 height 4 depth 4 to (2 2 2)
+@@@@ We have an overlap case with chunk 0!
+numberofchunks is now 2
+width is now 8
+After initialization, x is 0, y is 0, and z is 9
+##################### Depth = 0 
+DEBUG: array is 
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+Error in validation of coordinates! currentx > tt->max_x (9 > 8)
+validating coordinates..
+A validation problem has occured!
+model_print error: tiptap_printlayer error
