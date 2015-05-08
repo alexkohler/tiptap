@@ -1,7 +1,7 @@
 # tiptap
 3D printer driver implementation for Devin Pohly's Systems Programming in C
 
-Consists of three parts that we implemented throughout the Semester
+Consists of three parts that we implemented throughout the semester.
 
 **Assignment 3:** (Part one), was the basic implementation of the 3d printer driver
 
